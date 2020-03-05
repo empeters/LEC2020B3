@@ -1,4 +1,4 @@
-% Lecture 10 Part 1: "IS" functions. These are used for checking 
+isempty% Lecture 10 Part 1: "IS" functions. These are used for checking 
 % variable "types"
 % Chapter 4.5
 
